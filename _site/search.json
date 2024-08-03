@@ -60,6 +60,6 @@
     "href": "lectures/lecture1.html#lecture-audio",
     "title": "Lecture 1: Quick Walk to Quba",
     "section": "🎧 Lecture Audio",
-    "text": "🎧 Lecture Audio\nBelow, you’ll find the audio playback feature for this lecture.\n\nfrom IPython.display import Audio\naudio_url = \"https://drive.google.com/uc?export=download&id=17uvfmLX3Uqo6GHU7oWbo010aI0d2A20w\"\nAudio(url=audio_url, autoplay=False)\n\n\n                \n                    \n                    Your browser does not support the audio element.\n                \n              \n\n\n🏠 Home | [Next Lecture →] |"
+    "text": "🎧 Lecture Audio\nBelow, you’ll find the audio playback feature for this lecture.\n\nfrom IPython.display import Audio\nAudio(url='./audio/lecture1_audio.mp3', autoplay=False)\n\n\n                \n                    \n                    Your browser does not support the audio element.\n                \n              \n\n\n🏠 Home | [Next Lecture →] |"
   }
 ]
