@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Umrah With AE"
+  description: "Audio lectures and notes"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.ipynb
+      - text: "Lectures"
+        href: lectures/index.ipynb
+
+format:
+  html:
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    title-block: false
+    footer-content: "August 2024"

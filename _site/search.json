@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "UmrahWithAE.html",
+    "href": "UmrahWithAE.html",
+    "title": "UmrahWithAE",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "UmrahWithAE.html#quarto",
+    "href": "UmrahWithAE.html#quarto",
+    "title": "UmrahWithAE",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lecture Index",
+    "section": "",
+    "text": "All lectures documented here! Click on any lecture to view notes, recordings etc."
+  },
+  {
+    "objectID": "lectures/index.html#lecture-list",
+    "href": "lectures/index.html#lecture-list",
+    "title": "Lecture Index",
+    "section": "Lecture List",
+    "text": "Lecture List\n\nLecture 1: [Quba Walk]\n\n\n🏠 Home"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Umrah With Shk AE - August 2024",
+    "section": "",
+    "text": "Insert funny statement here 🔥🔥🔥🔥\nContains:\n\nNotes and summaries from each lecture.\nPhotos and additional resources.\nContributions (Please shareee).\n\nWill add notes and contributions from everyone and compile it inshallah…\n\nLectures"
+  },
+  {
+    "objectID": "lectures/lecture1.html",
+    "href": "lectures/lecture1.html",
+    "title": "Lecture 1: Quick Walk to Quba",
+    "section": "",
+    "text": "Sheikh called Adam a monkey again. If someone can summarize/share notes, would help :D"
+  },
+  {
+    "objectID": "lectures/lecture1.html#summary",
+    "href": "lectures/lecture1.html#summary",
+    "title": "Lecture 1: Quick Walk to Quba",
+    "section": "",
+    "text": "Sheikh called Adam a monkey again. If someone can summarize/share notes, would help :D"
+  },
+  {
+    "objectID": "lectures/lecture1.html#points",
+    "href": "lectures/lecture1.html#points",
+    "title": "Lecture 1: Quick Walk to Quba",
+    "section": "Points",
+    "text": "Points\n\n…"
+  },
+  {
+    "objectID": "lectures/lecture1.html#lecture-audio",
+    "href": "lectures/lecture1.html#lecture-audio",
+    "title": "Lecture 1: Quick Walk to Quba",
+    "section": "🎧 Lecture Audio",
+    "text": "🎧 Lecture Audio\nBelow, you’ll find the audio playback feature for this lecture.\n\nfrom IPython.display import Audio\naudio_url = \"https://drive.google.com/uc?export=download&id=17uvfmLX3Uqo6GHU7oWbo010aI0d2A20w\"\nAudio(url=audio_url, autoplay=False)\n\n\n                \n                    \n                    Your browser does not support the audio element.\n                \n              \n\n\n🏠 Home | [Next Lecture →] |"
+  }
+]
